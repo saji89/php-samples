@@ -18,7 +18,7 @@
 /**
  * For instructions on how to run the full sample:
  *
- * @seehttps://github.com/googleworkspace/php-samples/blob/master/docs/samples/README.md
+ * @see https://github.com/googleworkspace/php-samples/blob/master/docs/samples/README.md
  */
 
 // Include Google Cloud dependendencies using Composer
